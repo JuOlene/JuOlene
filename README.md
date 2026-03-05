@@ -39,7 +39,7 @@ Além da tecnologia, também tenho interesse por **biologia**, gosto de entender
 Experiências e conhecimentos:
 
 - 📊 **Excel** para organização e análise de dados  
-- 🐍 Conhecimentos em **Python**
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e67f38c9-182e-4c76-bd95-2092af57a1ec" />  Conhecimentos em **Python**
 - 🗄️ Conhecimento em **SQL e bancos de dados**
 - 🔧 Desenvolvimento de **projetos com Arduino**
 - 📈 Planilhas inteligentes e automação de tarefas
