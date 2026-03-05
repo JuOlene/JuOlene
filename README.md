@@ -36,6 +36,8 @@ Além da tecnologia, também tenho interesse por **biologia**, gosto de entender
 
 ### 🔧 Hardware e Experimentação
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
 Experiências e conhecimentos:
 
 - 📊 **Excel** para organização e análise de dados
