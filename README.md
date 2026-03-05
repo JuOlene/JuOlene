@@ -67,7 +67,7 @@ Além da tecnologia, também tenho interesse em áreas que estimulam criatividad
 
 ---
 
-## 🌟 Frase que me inspira
+## 🌟 Frases que me inspiram
 
 *"Aprender é investir no futuro que queremos construir."*
 
