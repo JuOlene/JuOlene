@@ -26,8 +26,9 @@ Além da tecnologia, também tenho interesse por **biologia**, gosto de entender
 
 ## 🛠️ Ferramentas e Tecnologias
 
-### 📊 Produtividade e Análise
+### 📊 Análise de Dados e Produtividade
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ### 💻 Programação e Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,10 +36,10 @@ Além da tecnologia, também tenho interesse por **biologia**, gosto de entender
 
 ### 🔧 Hardware e Experimentação
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
 Experiências e conhecimentos:
 
-- 📊 **Excel** para organização e análise de dados  
+- 📊 **Excel** para organização e análise de dados
+- 📊 dashboards de **Power BI**  
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e67f38c9-182e-4c76-bd95-2092af57a1ec" />  Conhecimentos em **Python**
 - 🗄️ Conhecimento em **SQL e bancos de dados**
 - 🔧 Desenvolvimento de **projetos com Arduino**
