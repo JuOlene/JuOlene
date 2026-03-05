@@ -66,6 +66,8 @@ Além da tecnologia, também tenho interesse em áreas que estimulam criatividad
 - Integrar **tecnologia, ciência e gestão** em soluções práticas
 
 ---
+🔗 Meu GitHub: https://github.com/JuOlene
+---
 
 ## 🌟 Frases que me inspiram
 
